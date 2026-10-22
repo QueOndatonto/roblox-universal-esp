@@ -1,0 +1,9 @@
+# Generated on 2026-11-15
+*.yml linguist-detectable=false
+public/index.html linguist-vendored
+*.md linguist-documentation
+*.tsx linguist-detectable
+
+*.png binary
+
+app/*.tsx linguist-detectable
